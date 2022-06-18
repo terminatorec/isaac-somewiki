@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmygame_react=self.webpackChunkmygame_react||[]).push([[247],{247:function(e,a,t){e.exports=t.p+"static/media/bethany.11495fcd965d2fa1dd93.jpg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmygame_react=self.webpackChunkmygame_react||[]).push([[540],{540:function(e,a,t){e.exports=t.p+"static/media/azazel.04d0b317633bd6b066e8.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmygame_react=self.webpackChunkmygame_react||[]).push([[729],{729:function(e,c,t){e.exports=t.p+"static/media/lilith.c2b4dcc88e53d00b3b59.png"}}]);

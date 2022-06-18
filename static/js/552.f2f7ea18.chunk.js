@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmygame_react=self.webpackChunkmygame_react||[]).push([[552],{552:function(c,a,e){c.exports=e.p+"static/media/isaac.c020533cd6ccfa831905.jpg"}}]);

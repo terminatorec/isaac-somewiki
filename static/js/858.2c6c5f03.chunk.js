@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmygame_react=self.webpackChunkmygame_react||[]).push([[858],{858:function(e,a,c){e.exports=c.p+"static/media/lazarus.947d084d83657c051d28.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmygame_react=self.webpackChunkmygame_react||[]).push([[114],{114:function(e,a,s){e.exports=s.p+"static/media/samson.eb8fe8c98e47123bfe3b.png"}}]);

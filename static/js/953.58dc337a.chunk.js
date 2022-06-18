@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmygame_react=self.webpackChunkmygame_react||[]).push([[953],{953:function(e,a,c){e.exports=c.p+"static/media/judas.138e84e15de2049dc052.png"}}]);

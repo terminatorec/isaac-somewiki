@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmygame_react=self.webpackChunkmygame_react||[]).push([[821],{821:function(e,a,c){e.exports=c.p+"static/media/jacob_esau.a4b45edd00fc66f14d96.jpg"}}]);

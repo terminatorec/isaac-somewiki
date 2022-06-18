@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmygame_react=self.webpackChunkmygame_react||[]).push([[795],{795:function(e,a,c){e.exports=c.p+"static/media/eve.0a44ce653e8e41dc44f5.png"}}]);

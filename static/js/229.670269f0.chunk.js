@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmygame_react=self.webpackChunkmygame_react||[]).push([[229],{229:function(e,c,a){e.exports=a.p+"static/media/hz.54875cfcfbfa10c8f260.png"}}]);

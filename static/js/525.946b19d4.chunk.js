@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmygame_react=self.webpackChunkmygame_react||[]).push([[525],{525:function(e,t,a){e.exports=a.p+"static/media/lost.2557b15667c071854695.png"}}]);

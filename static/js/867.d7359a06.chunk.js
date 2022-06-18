@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmygame_react=self.webpackChunkmygame_react||[]).push([[867],{867:function(e,a,c){e.exports=c.p+"static/media/apollyon.a1ed32fb02dc38a2383c.jpg"}}]);

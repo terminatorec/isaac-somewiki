@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmygame_react=self.webpackChunkmygame_react||[]).push([[806],{806:function(e,a,c){e.exports=c.p+"static/media/magdalene.57b3fc3c3396037d1c65.png"}}]);

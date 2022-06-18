@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmygame_react=self.webpackChunkmygame_react||[]).push([[741],{741:function(e,a,t){e.exports=t.p+"static/media/forgotten.c9b3b8a531346fa7a1de.png"}}]);

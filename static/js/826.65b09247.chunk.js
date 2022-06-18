@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmygame_react=self.webpackChunkmygame_react||[]).push([[826],{826:function(e,a,c){e.exports=c.p+"static/media/keeper.b3d3bd2c54b1e7465618.jpg"}}]);
